@@ -30,11 +30,12 @@ public class Main {
         IO.println("------------ Exercise 12 ------------");
         GroupByFirstLetter.printGroupByFirstLetter();
         IO.println("------------ Exercise 13 ------------");
-        MostFrequentWord.printMostFrequentWord();*/
+        MostFrequentWord.printMostFrequentWord();
         IO.println("------------ Exercise 14 ------------");
-        CommonElements.printCommonElements();
-        /*IO.println("------------ Exercise 15 ------------");
-        IO.println("------------ Exercise 16 ------------");
+        CommonElements.printCommonElements();*/
+        IO.println("------------ Exercise 15 ------------");
+        TwoSum.printTwoSum();
+        /*IO.println("------------ Exercise 16 ------------");
         IO.println("------------ Exercise 17 ------------");*/
     }
 }
