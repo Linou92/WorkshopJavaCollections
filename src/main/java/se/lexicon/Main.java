@@ -26,11 +26,12 @@ public class Main {
         IO.println("------------ Exercise 10 ------------");
         ConcertQueue.printConcertQueue();
         IO.println("------------ Exercise 11 ------------");
-        StudentGrades.printStudentGrades();*/
+        StudentGrades.printStudentGrades();
         IO.println("------------ Exercise 12 ------------");
-        GroupByFirstLetter.printGroupByFirstLetter();
-        /*IO.println("------------ Exercise 13 ------------");
-        IO.println("------------ Exercise 14 ------------");
+        GroupByFirstLetter.printGroupByFirstLetter();*/
+        IO.println("------------ Exercise 13 ------------");
+        MostFrequentWord.printMostFrequentWord();
+        /*IO.println("------------ Exercise 14 ------------");
         IO.println("------------ Exercise 15 ------------");
         IO.println("------------ Exercise 16 ------------");
         IO.println("------------ Exercise 17 ------------");*/
