@@ -8,11 +8,12 @@ public class Main {
         /*IO.println("------------ Exercise 1 ------------");
         ShoppingList.printShoppingList();
         IO.println("------------ Exercise 2 ------------");
-        UniqueCities.printUniqueCities();*/
+        UniqueCities.printUniqueCities();
         IO.println("------------ Exercise 3 ------------");
-        PhoneBook.printPhoneBook();
-        /*IO.println("------------ Exercise 4 ------------");
-        IO.println("------------ Exercise 5 ------------");
+        PhoneBook.printPhoneBook();*/
+        IO.println("------------ Exercise 4 ------------");
+        FindTheLargest.printFindTheLargest();
+        /*IO.println("------------ Exercise 5 ------------");
         IO.println("------------ Exercise 6 ------------");
         IO.println("------------ Exercise 7 ------------");
         IO.println("------------ Exercise 8 ------------");
