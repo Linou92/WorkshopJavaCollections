@@ -16,11 +16,12 @@ public class Main {
         IO.println("------------ Exercise 5 ------------");
         CountByLetter.printCountbyLetter();
         IO.println("------------ Exercise 6 ------------");
-        WordFrequency.printWordFrequency();*/
+        WordFrequency.printWordFrequency();
         IO.println("------------ Exercise 7 ------------");
-        KeepOrder.printKeepOrder();
-       /* IO.println("------------ Exercise 8 ------------");
-        IO.println("------------ Exercise 9 ------------");
+        KeepOrder.printKeepOrder();*/
+        IO.println("------------ Exercise 8 ------------");
+        MergeWithoutDuplicates.printMergeWithoutDuplicates();
+        /*IO.println("------------ Exercise 9 ------------");
         IO.println("------------ Exercise 10 ------------");
         IO.println("------------ Exercise 11 ------------");
         IO.println("------------ Exercise 12 ------------");
