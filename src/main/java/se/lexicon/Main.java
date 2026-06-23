@@ -18,11 +18,12 @@ public class Main {
         IO.println("------------ Exercise 6 ------------");
         WordFrequency.printWordFrequency();
         IO.println("------------ Exercise 7 ------------");
-        KeepOrder.printKeepOrder();*/
+        KeepOrder.printKeepOrder();
         IO.println("------------ Exercise 8 ------------");
-        MergeWithoutDuplicates.printMergeWithoutDuplicates();
-        /*IO.println("------------ Exercise 9 ------------");
-        IO.println("------------ Exercise 10 ------------");
+        MergeWithoutDuplicates.printMergeWithoutDuplicates();*/
+        IO.println("------------ Exercise 9 ------------");
+        SubmissionTracker.printSubmissionTracker();
+        /*IO.println("------------ Exercise 10 ------------");
         IO.println("------------ Exercise 11 ------------");
         IO.println("------------ Exercise 12 ------------");
         IO.println("------------ Exercise 13 ------------");
