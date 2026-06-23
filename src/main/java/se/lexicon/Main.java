@@ -34,9 +34,10 @@ public class Main {
         IO.println("------------ Exercise 14 ------------");
         CommonElements.printCommonElements();
         IO.println("------------ Exercise 15 ------------");
-        TwoSum.printTwoSum();*/
+        TwoSum.printTwoSum();
         IO.println("------------ Exercise 16 ------------");
-        SecondLargest.printSecondLargest();
-        //IO.println("------------ Exercise 17 ------------");
+        SecondLargest.printSecondLargest();*/
+        IO.println("------------ Exercise 17 ------------");
+        Top3MostFrequent.printTop3MostFrequent();
     }
 }
