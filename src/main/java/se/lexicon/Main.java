@@ -6,11 +6,12 @@ public class Main {
     static void main() {
 
         /*IO.println("------------ Exercise 1 ------------");
-        ShoppingList.printShoppingList();*/
+        ShoppingList.printShoppingList();
         IO.println("------------ Exercise 2 ------------");
-        UniqueCities.printUniqueCities();
-        /*IO.println("------------ Exercise 3 ------------");
-        IO.println("------------ Exercise 4 ------------");
+        UniqueCities.printUniqueCities();*/
+        IO.println("------------ Exercise 3 ------------");
+        PhoneBook.printPhoneBook();
+        /*IO.println("------------ Exercise 4 ------------");
         IO.println("------------ Exercise 5 ------------");
         IO.println("------------ Exercise 6 ------------");
         IO.println("------------ Exercise 7 ------------");
