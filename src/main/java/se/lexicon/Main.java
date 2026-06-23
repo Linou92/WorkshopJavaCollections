@@ -10,11 +10,12 @@ public class Main {
         IO.println("------------ Exercise 2 ------------");
         UniqueCities.printUniqueCities();
         IO.println("------------ Exercise 3 ------------");
-        PhoneBook.printPhoneBook();*/
+        PhoneBook.printPhoneBook();
         IO.println("------------ Exercise 4 ------------");
-        FindTheLargest.printFindTheLargest();
-        /*IO.println("------------ Exercise 5 ------------");
-        IO.println("------------ Exercise 6 ------------");
+        FindTheLargest.printFindTheLargest();*/
+        IO.println("------------ Exercise 5 ------------");
+        CountByLetter.printCountbyLetter();
+        /*IO.println("------------ Exercise 6 ------------");
         IO.println("------------ Exercise 7 ------------");
         IO.println("------------ Exercise 8 ------------");
         IO.println("------------ Exercise 9 ------------");
