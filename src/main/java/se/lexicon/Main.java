@@ -32,10 +32,11 @@ public class Main {
         IO.println("------------ Exercise 13 ------------");
         MostFrequentWord.printMostFrequentWord();
         IO.println("------------ Exercise 14 ------------");
-        CommonElements.printCommonElements();*/
+        CommonElements.printCommonElements();
         IO.println("------------ Exercise 15 ------------");
-        TwoSum.printTwoSum();
-        /*IO.println("------------ Exercise 16 ------------");
-        IO.println("------------ Exercise 17 ------------");*/
+        TwoSum.printTwoSum();*/
+        IO.println("------------ Exercise 16 ------------");
+        SecondLargest.printSecondLargest();
+        //IO.println("------------ Exercise 17 ------------");
     }
 }
