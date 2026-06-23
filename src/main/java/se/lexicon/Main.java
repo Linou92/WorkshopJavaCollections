@@ -14,11 +14,12 @@ public class Main {
         IO.println("------------ Exercise 4 ------------");
         FindTheLargest.printFindTheLargest();
         IO.println("------------ Exercise 5 ------------");
-        CountByLetter.printCountbyLetter();*/
+        CountByLetter.printCountbyLetter();
         IO.println("------------ Exercise 6 ------------");
-        WordFrequency.printWordFrequency();
-        /*IO.println("------------ Exercise 7 ------------");
-        IO.println("------------ Exercise 8 ------------");
+        WordFrequency.printWordFrequency();*/
+        IO.println("------------ Exercise 7 ------------");
+        KeepOrder.printKeepOrder();
+       /* IO.println("------------ Exercise 8 ------------");
         IO.println("------------ Exercise 9 ------------");
         IO.println("------------ Exercise 10 ------------");
         IO.println("------------ Exercise 11 ------------");
