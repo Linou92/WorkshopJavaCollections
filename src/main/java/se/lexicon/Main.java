@@ -12,11 +12,12 @@ public class Main {
         IO.println("------------ Exercise 3 ------------");
         PhoneBook.printPhoneBook();
         IO.println("------------ Exercise 4 ------------");
-        FindTheLargest.printFindTheLargest();*/
+        FindTheLargest.printFindTheLargest();
         IO.println("------------ Exercise 5 ------------");
-        CountByLetter.printCountbyLetter();
-        /*IO.println("------------ Exercise 6 ------------");
-        IO.println("------------ Exercise 7 ------------");
+        CountByLetter.printCountbyLetter();*/
+        IO.println("------------ Exercise 6 ------------");
+        WordFrequency.printWordFrequency();
+        /*IO.println("------------ Exercise 7 ------------");
         IO.println("------------ Exercise 8 ------------");
         IO.println("------------ Exercise 9 ------------");
         IO.println("------------ Exercise 10 ------------");
